@@ -39,9 +39,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/prashant334434/prashant334434/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/prashant334434/prashant334434/blob/output/snake.svg?raw=true" alt="Snake animation" />
+
 
 ###
 [![](https://visitcount.itsvg.in/api?id=prashant334434&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> remove the line under tech stack heading  and make headings more minimal 
+
