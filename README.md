@@ -12,8 +12,6 @@ I'm a passionate React Native developer with over 2 years of experience building
 ![](https://nirzak-streak-stats.vercel.app/?user=prashant334434&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant334434&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prashant334434&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=prashant334434&icon=1&color=0)](https://visitcount.itsvg.in)
